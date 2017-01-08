@@ -1,0 +1,1125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlparts"
+			],
+			[
+				"u",
+				"urlparts"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"vE",
+				"vEpisode"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"new",
+				"newshow"
+			],
+			[
+				"episode",
+				"episodeNumber"
+			],
+			[
+				"psh",
+				"pShowFactory"
+			],
+			[
+				"dyn",
+				"dynamic_fields"
+			],
+			[
+				"tem",
+				"templated_data"
+			],
+			[
+				"Perch",
+				"PerchUtil"
+			],
+			[
+				"pSH",
+				"pShowFactory"
+			],
+			[
+				"aSh",
+				"aShowDetails"
+			],
+			[
+				"Auto",
+				"AutoPod_VimeoEpisodes"
+			],
+			[
+				"AutoPOd",
+				"AutoPod_VimeoUsers"
+			],
+			[
+				"inc",
+				"incl\tinclude …"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"vimeo",
+				"vimeoData"
+			],
+			[
+				"use",
+				"usersFactory"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"user",
+				"userDetails"
+			],
+			[
+				"User",
+				"UserPrivileges"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"Vime",
+				"VimeoUser"
+			],
+			[
+				"redi",
+				"redirect_uri"
+			],
+			[
+				"show",
+				"showFactory"
+			],
+			[
+				"aShow",
+				"aShowFactory"
+			],
+			[
+				"Sh",
+				"shows"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"require",
+				"require_field"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"perchbloc",
+				"perchblocks\tblocks"
+			],
+			[
+				"fiel",
+				"filepath"
+			],
+			[
+				"con",
+				"configfile"
+			],
+			[
+				"coni",
+				"configfile"
+			],
+			[
+				"loa",
+				"loads\tfunction"
+			],
+			[
+				"confi",
+				"configfile\tparam"
+			],
+			[
+				"s",
+				"sikulix"
+			],
+			[
+				"log",
+				"logfile"
+			],
+			[
+				"tab",
+				"tablerow"
+			],
+			[
+				"ta",
+				"tablecolname"
+			],
+			[
+				"update",
+				"updateData"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"send",
+				"send_response\tfunction"
+			],
+			[
+				"loca",
+				"location\tstatement"
+			],
+			[
+				"Conte",
+				"Content-type"
+			],
+			[
+				"loc",
+				"location\tstatement"
+			],
+			[
+				"split",
+				"splitext\tfunction"
+			],
+			[
+				"byte",
+				"byte\tArduino byte()"
+			],
+			[
+				"run",
+				"runcount\tstatement"
+			],
+			[
+				"start",
+				"started"
+			],
+			[
+				"off",
+				"offTimeMax\tstatement"
+			],
+			[
+				"offTie",
+				"offTimeMax"
+			],
+			[
+				"onT",
+				"onTimeMax"
+			],
+			[
+				"on",
+				"onTimeMax"
+			],
+			[
+				"onti",
+				"onTimeMin\tstatement"
+			],
+			[
+				"onTime",
+				"onTimeMin"
+			],
+			[
+				"mach",
+				"machines\tstatement"
+			],
+			[
+				"out",
+				"output\tstatement"
+			],
+			[
+				"in",
+				"info\tfunction"
+			],
+			[
+				"o",
+				"onTimeMax\tstatement"
+			],
+			[
+				"getOn",
+				"getOnTimeMin\tfunction"
+			],
+			[
+				"conf",
+				"configs"
+			],
+			[
+				"sta",
+				"state\tparam"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"offTimeMax",
+				"offTimeMax"
+			],
+			[
+				"onTimeMax",
+				"onTimeMax"
+			],
+			[
+				"started",
+				"Started"
+			],
+			[
+				"seen",
+				"send_response\tfunction"
+			],
+			[
+				"info",
+				"INFO\tstatement"
+			],
+			[
+				"g",
+				"getint\tfunction"
+			],
+			[
+				"config",
+				"config"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"ar",
+				"argv\tinstance"
+			],
+			[
+				"W",
+				"WARNING\tstatement"
+			],
+			[
+				"H",
+				"HTTPServer"
+			],
+			[
+				"fi",
+				"FileHandler\tclass"
+			],
+			[
+				"exit",
+				"exit_check"
+			],
+			[
+				"ana",
+				"analogWrite\tArduino analogWrite"
+			],
+			[
+				"pot",
+				"potAvg"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"digitalR",
+				"digitalRead\tArduino digitalRead"
+			],
+			[
+				"digi",
+				"digitalWrite\tArduino digitalWrite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 83,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "Pac rem",
+		"selected_items":
+		[
+			[
+				"Pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"markdo",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package control inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/daniel/Documents/RemoteFileChangeMonitor",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/container"
+	],
+	"file_history":
+	[
+		"/home/daniel/Documents/RemoteFileChangeMonitor/container/app/rfcm.py",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/docker-compose.yml",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/container/app/.ssh/NOTMOUNTED",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/container/app/data/NOTMOUNTED",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/data/main.py",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/ssh/config",
+		"/home/daniel/Documents/RemoteFileChangeMonitor/Dockerfile",
+		"/home/daniel/Documents/Docker/reverse-proxy/Dockerfile",
+		"/home/daniel/Documents/3DPrinter/Marlin/Marlin/Configuration_adv.h",
+		"/home/daniel/Documents/3DPrinter/Marlin/Marlin/Marlin.ino",
+		"/home/daniel/Documents/3DPrinter/Marlin/Marlin/Configuration.h",
+		"/home/daniel/.ssh/github.pub",
+		"/home/daniel/.ssh/github",
+		"/home/daniel/Documents/kgmachineworks.com/f",
+		"/home/daniel/Documents/kgmachineworks.com/wordpress/wp-admin/includes/media.php",
+		"/home/daniel/Documents/kgmachineworks.com/wordpress/wp-admin/includes/class-wp-screen.php",
+		"/home/daniel/Documents/kgmachineworks.com/public_html/wp-content/themes/folo/uploads/galerz.phtml",
+		"/home/daniel/Documents/kgmachineworks.com/public_html/wp-content/themes/folo/uploads/error_log",
+		"/home/daniel/Documents/kgmachineworks.com/public_html/wp-content/themes/folo/uploads/phpinfo.php",
+		"/home/daniel/Documents/kgmachineworks.com/public_html/wp-content/themes/folo/uploads/in1.phtml",
+		"/home/daniel/Documents/3DPrinter/Marlin/Marlin/temperature.cpp",
+		"/home/daniel/apps/arduino-1.8.0/libraries/Robot_Control/src/ArduinoRobot.cpp",
+		"/home/daniel/apps/arduino-1.8.0/libraries/Robot_Control/src/SdCard.h",
+		"/home/daniel/apps/arduino-1.6.6/libraries/Robot_Control/src/ArduinoRobot.cpp",
+		"/home/daniel/apps/arduino-1.6.6/libraries/Robot_Control/src/SdCard.h",
+		"/home/daniel/Documents/3DPrinter/From Ashish/Arduino Software/Lulz/Marlin_2015Q1_TAZ5/Marlin_2015Q1_TAZ5_0/Configuration.h",
+		"/home/daniel/Documents/3DPrinter/Marlin/Marlin/boards.h",
+		"/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump/IRrecvDump.ino",
+		"/home/daniel/Documents/Docker/reverse-proxy/static/index.html",
+		"/home/daniel/Documents/Docker/reverse-proxy/nginx.conf",
+		"/home/daniel/Documents/danielidzerda.ca/bootstrap-3.3.4/less/variables.less",
+		"/home/daniel/Documents/danielidzerda.ca/bootstrap-3.3.4/less/theme.less",
+		"/home/daniel/Documents/Amanda/businessgrow-pro/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/content/blocks/general.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/config/config.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/readme.md",
+		"/home/daniel/Desktop/mailsend",
+		"/home/daniel/Desktop/openvpn-server-log.log",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/config/apps.php",
+		"/home/daniel/Documents/Amanda/businessgrow-pro-child/templates/homepage-services.php",
+		"/home/daniel/Desktop/www/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.list.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/scheduled_tasks.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/vimeo/getAlbums.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.edit.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.edit.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/admin.php",
+		"/home/daniel/Documents/Routers/wrt1900acv2/openvpn/ca/keys/dh2048.pem",
+		"/home/daniel/Documents/Routers/wrt1900acv2/openvpn/ca/keys/server.key",
+		"/home/daniel/Documents/Routers/wrt1900acv2/openvpn/ca/keys/server.crt",
+		"/home/daniel/Documents/Routers/wrt1900acv2/openvpn/ca/keys/ca.crt",
+		"/home/daniel/Documents/Nexus5/stock/hammerhead-mmb29q/flash-all.sh",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/episodes_list.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/pagination/podcast-page-links.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/pagination/podcast.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/podcasts/.htaccess",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/podcasts/show.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/runtime.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/PerchPodcasts_Episodes.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchPaging.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/test.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_VimeoEpisodes.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/podcasts/test.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/shows_list.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/rss_items.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/vimeo_episode.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/runtime.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/podcasts/episode.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/show.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/podcasts/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/apps/content/runtime.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/layouts/global.footer.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/activate.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/templates/podcasts/episode.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/templates/podcasts/episode.html",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/api/PerchAPI_Factory.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchFactory.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/PerchPodcasts_Shows.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/activate.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/apps/content/PerchContent_Util.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchFieldTypes.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/api/PerchAPI_Form.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/modes/episode.edit.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchXMLTag.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/api/PerchAPI_Template.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchTemplate.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_Show.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_forms/PerchForms_Form.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchEmail.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchBase.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_VimeoEpisode.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/api/PerchAPI_Base.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchScheduledTasks.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/inc/appcheck.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchAdmin.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.edit.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.delete.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.delete.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.delete.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.delete.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/vimeo/user/delete/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/delete/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.edit.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/api/PerchAPI_HTML.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_Shows.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/_subnav.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/js/vimeoalbums.js",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/ajax/vimeoalbums.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/Perch.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/ajax/vimeotags.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.list.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/vimeo/user/edit/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/vimeo/user/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/vimeo.user.list.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_VimeoUser.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPod_VimeoUsers.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchAuthenticatedUser.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchUser.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/edit/index.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/assets/css/perch.unmin.css",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchAlert.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/modes/show.list.pre.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts/modes/show.list.post.php",
+		"/home/daniel/Documents/danielidzerda.ca/.gitignore",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/AutoPodType.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod/types/AutoPodType_vimeo.class.php",
+		"/home/daniel/Documents/danielidzerda.ca/public_html/perch/core/lib/PerchDB.class.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/autopod",
+			"/home/daniel/Documents/danielidzerda.ca/public_html/perch/addons/apps/perch_podcasts",
+			"/home/daniel/Documents/danielidzerda.ca/public_html/perch"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"rambo",
+			"200",
+			"offset",
+			"X_MIN",
+			"XMIN",
+			"alpine",
+			"peter",
+			"target=\"_blank\"",
+			"autopod_vimeo_client_id",
+			"page_pattern",
+			"template",
+			"vData",
+			"TrackedURL",
+			"Slug",
+			"*slug*",
+			"slug",
+			"date_create_from_format",
+			"());\n",
+			"aShow",
+			" $",
+			"aShow",
+			"aShows",
+			"yet",
+			"$usersFactory",
+			".alert.",
+			".alert",
+			"PerchAPI_Base",
+			"attempt_install",
+			"showId",
+			"Form",
+			"());?>/",
+			"PerchFieldType",
+			" event(",
+			"event(",
+			"event",
+			"assets.create_image",
+			"fields_from_template",
+			"rgba(255,255,255,0.75)",
+			");\n",
+			"alert",
+			"False",
+			"\t\n",
+			"DEFAULT",
+			"tmr",
+			"md",
+			"rgba",
+			"Serial",
+			"byte",
+			"data",
+			"1",
+			"zbRx",
+			"rx",
+			"Rx",
+			"RX",
+			"Rx",
+			"rx",
+			"txStatus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1482776597.971367":
+	{
+		"height": 112.0
+	},
+	"output.build|/home/daniel/Documents/3DPrinter/Marlin/Marlin|1482776121.136894":
+	{
+		"height": 130.0
+	},
+	"output.build|/home/daniel/Documents/3DPrinter/Marlin/Marlin|1482776607.3902972":
+	{
+		"height": 112.0
+	},
+	"output.build|/home/daniel/Documents/3DPrinter/Marlin/Marlin|1482776819.5994878":
+	{
+		"height": 403.0
+	},
+	"output.build|/home/daniel/Documents/3DPrinter/Marlin/Marlin|1482776856.7321086":
+	{
+		"height": 253.0
+	},
+	"output.build|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448554775.45601":
+	{
+		"height": 112.0
+	},
+	"output.build|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480458555.1040962":
+	{
+		"height": 112.0
+	},
+	"output.build|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480459635.1912172":
+	{
+		"height": 112.0
+	},
+	"output.build|/home/daniel/apps/arduino-1.8.0/libraries/Robot_Control/src|1482776837.3159633":
+	{
+		"height": 510.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448554779.2086234":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448554915.5662067":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555063.611365":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555140.7562325":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555193.4928699":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555405.8987322":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555453.8274305":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555718.7907681":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555971.0074785":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448555991.2895682":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556011.7823":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556122.693113":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556177.9597797":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556258.7242236":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556307.9095662":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/AutomatedTestingSystem/Arduino/relays|1448556395.3438368":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480458567.0020592":
+	{
+		"height": 424.0
+	},
+	"output.upload|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480458668.6712375":
+	{
+		"height": 221.0
+	},
+	"output.upload|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480459459.2569559":
+	{
+		"height": 112.0
+	},
+	"output.upload|/home/daniel/Documents/sketchbook/libraries/IRremote/examples/IRrecvDump|1480459639.8989902":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "RemoteFileChangeMonitor.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"field",
+				"public_html/perch/core/lib/PerchFieldTypes.class.php"
+			],
+			[
+				"perchxm",
+				"public_html/perch/core/lib/PerchXMLTag.class.php"
+			],
+			[
+				"perchauth",
+				"public_html/perch/core/lib/PerchAuthenticatedUser.class.php"
+			],
+			[
+				"perchu",
+				"public_html/perch/core/lib/PerchUser.class.php"
+			],
+			[
+				"perchapifa",
+				"public_html/perch/core/lib/api/PerchAPI_Factory.class.php"
+			],
+			[
+				"perchcontent",
+				"public_html/perch/core/apps/content/PerchContent.class.php"
+			],
+			[
+				"perchevent",
+				"public_html/perch/core/lib/PerchSystemEvent.class.php"
+			],
+			[
+				"perchform.",
+				"public_html/perch/core/lib/PerchForm.class.php"
+			],
+			[
+				"perchutil",
+				"public_html/perch/core/lib/PerchUtil.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
