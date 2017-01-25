@@ -5,3 +5,4 @@ USER rfcm
 COPY ./src /home/rfcm/
 WORKDIR /home/rfcm
 CMD ["python3", "rfcm.py"]
+#CMD /bin/ash
