@@ -16,8 +16,11 @@ RUN adduser -S rfcm
 #Copy application data
 COPY ./src /home/rfcm/
 
+#Create and symlink .ssh folder
+WORKDIR /home/rfcm
+RUN ln -s data/.ssh .ssh
+
 #Prepare for running applicaton
 USER rfcm
-WORKDIR /home/rfcm
 CMD ["python3", "rfcm.py"]
 #CMD /bin/ash
