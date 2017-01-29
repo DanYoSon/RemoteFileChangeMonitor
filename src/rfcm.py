@@ -24,7 +24,6 @@ def getAccountGuid(api):
 
 mail = reachmail.ReachMail(conf['General']['reachmailapikey'])
 AccountId = getAccountGuid(mail)
-print(AccountId)
 
 #Get all section names and remove the first (General) section
 sites = conf.sections()
@@ -40,8 +39,12 @@ for configname in sites:
 	db = dbClass.dbClass(sitepath + '.db')
 	#http://stackoverflow.com/questions/2715847/python-read-streaming-input-from-subprocess-communicate
 	command = [
-		#'ssh',
-		#conf[configname]["sshid"],
+		'ssh',
+		'-i',
+		'%s/data/%s' % (os.getcwd(),configname,),
+		'-p',
+		conf[configname]['ssh_port'],
+		'%s@%s' % (conf[configname]['ssh_user'], conf[configname]['ssh_host']),
 		'find',
 		conf[configname]['scanfolder'],
 		'-type',
@@ -49,10 +52,11 @@ for configname in sites:
 		'-exec',
 		'stat',
 		'-c',
-		'{"path":"%n","moddate":"%Z","size":"%s"}',
+		'\\{\\"path\\":\\"%n\\",\\"moddate\\":\\"%Z\\",\\"size\\":\\"%s\\"\\}',
 		'{}',
-		';'
+		'\\;'
 		]
+	print(' '.join(command))
 	with sp.Popen(command, stdout=sp.PIPE, bufsize=1, universal_newlines=True) as p:
 		for line in p.stdout:
 			oFile = json.loads(line)
@@ -106,7 +110,7 @@ for configname in sites:
 		report = open(sitepath + '.report', 'w')
 		report.write(reportdata)
 		report.close()
-
+		
 		send = mail.easysmtp.delivery(AccountId=AccountId, Data=emaildata)
 		if send[0] == 200:
 			log.info('Sent Report')
